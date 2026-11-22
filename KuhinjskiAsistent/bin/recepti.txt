@@ -1,0 +1,46 @@
+Naziv: bolonjeze
+Opis: hj
+Kategorija: ručak
+Tagovi: italija, špagete
+Sastojci: 
+Slika: j
+Priprema:
+Omiljen: false
+---
+Naziv: gulaš
+Opis: l
+Kategorija: ručak
+Tagovi: mađarska, ukusno, meso
+Sastojci: 
+Slika: l
+Priprema:
+Omiljen: true
+---
+Naziv: omlet
+Opis: Brz i lagan obrok bogat proteinima, idealan za doručak.
+Kategorija: doručak
+Tagovi: zdravo, brzo, proteini, lako
+Sastojci: r, ulje
+Slika: resursi/slike/omlet.jpg
+Priprema:
+Kajgana obično podrazumeva da se jaja peku samo sa jedne strane i/ili nije bitno da li se vodi računa o konačnom izgledu. Omlet zahteva specifičan, nenarušen oblik, bolje ispečen sa spoljne strane a sočan iznutra što se postiže preklapanjem na pola pečenja.
+Omiljen: false
+---
+Naziv: pica
+Opis: 
+Kategorija: ručak
+Tagovi: italija
+Sastojci: 
+Slika: l
+Priprema:
+Omiljen: true
+---
+Naziv: punjene paprike
+Opis: k
+Kategorija: ručak
+Tagovi: povrće, tradicionalno
+Sastojci: 
+Slika: k
+Priprema:
+Omiljen: false
+---
